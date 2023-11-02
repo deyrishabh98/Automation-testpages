@@ -7,7 +7,7 @@ This project is designed for performing automated tests on a web application usi
 1. **Clone the Repository**
 
     ```
-    git clone https://github.com/your-username/selenium-automation.git
+    https://github.com/deyrishabh98/Automation-testpages.git
     ```
    
 2. **Install Requirements**
