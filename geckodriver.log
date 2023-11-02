@@ -1,0 +1,654 @@
+1698918506317	geckodriver	INFO	Listening on 127.0.0.1:50525
+1698918506324	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50526" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileG3xrsF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698918507323	Marionette	INFO	Marionette enabled
+2023-11-02 15:18:27.566 plugin-container[64072:75044396] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:18:27.566 plugin-container[64072:75044396] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:18:27.652 plugin-container[64072:75044396] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:18:27.652 plugin-container[64072:75044396] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:18:27.660 plugin-container[64072:75044406] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:18:27.660 plugin-container[64072:75044406] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698918507671	Marionette	INFO	Listening on port 50532
+WebDriver BiDi listening on ws://127.0.0.1:50526
+1698918507777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50526/devtools/browser/2e507a70-1ac6-45e3-8ea5-b5e1ac51f66f
+1698919362455	geckodriver	INFO	Listening on 127.0.0.1:54765
+1698919362468	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54766" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileyd7pEZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698919364380	Marionette	INFO	Marionette enabled
+2023-11-02 15:32:44.722 plugin-container[70651:75065226] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:32:44.722 plugin-container[70651:75065226] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698919364831	Marionette	INFO	Listening on port 54775
+WebDriver BiDi listening on ws://127.0.0.1:54766
+1698919364944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 15:32:45.164 plugin-container[70651:75065226] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:32:45.164 plugin-container[70651:75065226] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:32:45.164 plugin-container[70651:75065229] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:32:45.164 plugin-container[70651:75065229] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:54766/devtools/browser/9c82b75b-ad89-41ff-ba96-df9cb8e0d43f
+1698919405202	geckodriver	INFO	Listening on 127.0.0.1:55100
+1698919405727	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55101" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofiletR27j7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698919406504	Marionette	INFO	Marionette enabled
+2023-11-02 15:33:26.780 plugin-container[71057:75066773] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:33:26.781 plugin-container[71057:75066773] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698919406877	Marionette	INFO	Listening on port 55112
+WebDriver BiDi listening on ws://127.0.0.1:55101
+1698919406933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 15:33:27.128 plugin-container[71057:75066773] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:33:27.128 plugin-container[71057:75066773] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:33:27.129 plugin-container[71057:75066771] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:33:27.129 plugin-container[71057:75066771] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:55101/devtools/browser/6d4495b7-8e6f-46f7-8734-0b3f38611601
+1698919415050	Marionette	INFO	Stopped listening on port 50532
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1698919417462	Marionette	INFO	Stopped listening on port 54775
+1698919422700	Marionette	INFO	Stopped listening on port 55112
+1698919432227	geckodriver	INFO	Listening on 127.0.0.1:55311
+1698919432747	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55312" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofilewtBStT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698919433794	Marionette	INFO	Marionette enabled
+2023-11-02 15:33:54.097 plugin-container[71287:75067900] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:33:54.097 plugin-container[71287:75067900] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698919434185	Marionette	INFO	Listening on port 55319
+WebDriver BiDi listening on ws://127.0.0.1:55312
+1698919434292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 15:33:54.576 plugin-container[71287:75067900] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:33:54.576 plugin-container[71287:75067900] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:33:54.576 plugin-container[71287:75067944] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:33:54.576 plugin-container[71287:75067944] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:55312/devtools/browser/7470a251-ba06-4308-9261-28c87ad331f1
+1698919437426	Marionette	INFO	Stopped listening on port 55319
+1698919506462	geckodriver	INFO	Listening on 127.0.0.1:55879
+1698919506471	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55880" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofilemMenqz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698919507324	Marionette	INFO	Marionette enabled
+2023-11-02 15:35:07.545 plugin-container[71999:75070281] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:35:07.545 plugin-container[71999:75070281] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:35:07.553 plugin-container[71999:75070281] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:35:07.553 plugin-container[71999:75070281] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:35:07.554 plugin-container[71999:75070279] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:35:07.554 plugin-container[71999:75070279] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698919507662	Marionette	INFO	Listening on port 55885
+WebDriver BiDi listening on ws://127.0.0.1:55880
+1698919507753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55880/devtools/browser/96ec5637-f5cb-4dfb-8209-5e58ef8bb929
+1698919562779	geckodriver	INFO	Listening on 127.0.0.1:56310
+1698919562788	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56311" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileGxLIXp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698919564179	Marionette	INFO	Marionette enabled
+2023-11-02 15:36:04.444 plugin-container[72480:75072385] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:36:04.444 plugin-container[72480:75072385] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:36:04.464 plugin-container[72480:75072385] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:36:04.464 plugin-container[72480:75072385] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:36:04.465 plugin-container[72480:75072389] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:36:04.465 plugin-container[72480:75072389] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698919564545	Marionette	INFO	Listening on port 56316
+WebDriver BiDi listening on ws://127.0.0.1:56311
+1698919564730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56311/devtools/browser/20f50d9a-1f41-49bb-94f1-557ffc361aea
+1698919608553	geckodriver	INFO	Listening on 127.0.0.1:56622
+1698919608569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56623" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofilebEBHE0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698919609533	Marionette	INFO	Marionette enabled
+2023-11-02 15:36:49.858 plugin-container[72885:75074050] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:36:49.858 plugin-container[72885:75074050] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698919609962	Marionette	INFO	Listening on port 56628
+WebDriver BiDi listening on ws://127.0.0.1:56623
+2023-11-02 15:36:50.009 plugin-container[72885:75074050] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:36:50.009 plugin-container[72885:75074050] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:36:50.009 plugin-container[72885:75074047] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:36:50.009 plugin-container[72885:75074047] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698919610045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56623/devtools/browser/bbcea7db-ac02-40f4-8f71-10989182d4f2
+1698919613445	Marionette	INFO	Stopped listening on port 56628
+1698919617188	Marionette	INFO	Stopped listening on port 55885
+1698919619174	Marionette	INFO	Stopped listening on port 56316
+1698919935160	geckodriver	INFO	Listening on 127.0.0.1:58638
+1698919935174	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58639" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileGcw4Rm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698919937168	Marionette	INFO	Marionette enabled
+2023-11-02 15:42:17.518 plugin-container[75775:75083431] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:42:17.518 plugin-container[75775:75083431] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698919937629	Marionette	INFO	Listening on port 58644
+WebDriver BiDi listening on ws://127.0.0.1:58639
+1698919937764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 15:42:17.912 plugin-container[75775:75083431] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:42:17.912 plugin-container[75775:75083431] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:42:17.934 plugin-container[75775:75083429] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:42:17.934 plugin-container[75775:75083429] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:58639/devtools/browser/f63e4746-be8a-4b10-a3e3-1fb905cbeac1
+1698919941219	Marionette	INFO	Stopped listening on port 58644
+1698919999984	geckodriver	INFO	Listening on 127.0.0.1:59160
+1698919999993	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59161" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofilekEsyrF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698920001678	Marionette	INFO	Marionette enabled
+2023-11-02 15:43:22.005 plugin-container[76361:75085774] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:43:22.006 plugin-container[76361:75085774] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698920002116	Marionette	INFO	Listening on port 59166
+WebDriver BiDi listening on ws://127.0.0.1:59161
+1698920002230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 15:43:22.306 plugin-container[76361:75085774] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:43:22.306 plugin-container[76361:75085774] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:43:22.306 plugin-container[76361:75085772] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:43:22.306 plugin-container[76361:75085772] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:59161/devtools/browser/20063259-2633-40f0-8ebf-2feddac0cf8e
+JavaScript error: https://testpages.herokuapp.com/styled/tag/dynamic-table.html, line 120: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 63 of the JSON data
+1698920006140	Marionette	INFO	Stopped listening on port 59166
+1698920039198	geckodriver	INFO	Listening on 127.0.0.1:59504
+1698920039724	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59505" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileaQg9ET"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698920040363	Marionette	INFO	Marionette enabled
+2023-11-02 15:44:00.528 plugin-container[76689:75087048] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:44:00.528 plugin-container[76689:75087048] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:44:00.531 plugin-container[76689:75087048] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:44:00.531 plugin-container[76689:75087048] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:44:00.531 plugin-container[76689:75087052] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:44:00.531 plugin-container[76689:75087052] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698920040632	Marionette	INFO	Listening on port 59516
+WebDriver BiDi listening on ws://127.0.0.1:59505
+1698920040853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59505/devtools/browser/332be54f-9346-4bd3-adc8-6226d5a49afe
+JavaScript error: https://testpages.herokuapp.com/styled/tag/dynamic-table.html, line 120: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 63 of the JSON data
+JavaScript error: https://testpages.herokuapp.com/styled/tag/dynamic-table.html, line 120: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 63 of the JSON data
+1698920054409	Marionette	INFO	Stopped listening on port 59516
+1698920131513	geckodriver	INFO	Listening on 127.0.0.1:60137
+1698920131522	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60138" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofilejxTNeu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698920133350	Marionette	INFO	Marionette enabled
+2023-11-02 15:45:33.702 plugin-container[77527:75090225] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:45:33.708 plugin-container[77527:75090225] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698920133823	Marionette	INFO	Listening on port 60143
+WebDriver BiDi listening on ws://127.0.0.1:60138
+1698920133969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698920138089	geckodriver	INFO	Listening on 127.0.0.1:60210
+1698920138097	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60211" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileYGXBgd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698920138631	Marionette	INFO	Marionette enabled
+2023-11-02 15:45:38.818 plugin-container[77584:75090577] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:45:38.829 plugin-container[77584:75090577] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698920138855	Marionette	INFO	Listening on port 60216
+WebDriver BiDi listening on ws://127.0.0.1:60211
+1698920138996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 15:45:39.042 plugin-container[77584:75090577] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:45:39.042 plugin-container[77584:75090577] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:45:39.043 plugin-container[77584:75090574] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:45:39.043 plugin-container[77584:75090574] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:60211/devtools/browser/a29e67c0-34b4-464d-8b26-d2bc482f088c
+1698920152660	Marionette	INFO	Stopped listening on port 60216
+1698920157197	geckodriver	INFO	Listening on 127.0.0.1:60353
+1698920157207	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60354" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileyKo5cf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698920157734	Marionette	INFO	Marionette enabled
+2023-11-02 15:45:57.928 plugin-container[77769:75091500] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:45:57.928 plugin-container[77769:75091500] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:45:57.960 plugin-container[77769:75091500] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:45:57.960 plugin-container[77769:75091500] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:45:57.960 plugin-container[77769:75091507] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:45:57.960 plugin-container[77769:75091507] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698920157964	Marionette	INFO	Listening on port 60359
+WebDriver BiDi listening on ws://127.0.0.1:60354
+1698920158046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60354/devtools/browser/6d15d7a0-f8fd-45c8-8e9f-75b9e1f8aebc
+1698920171798	Marionette	INFO	Stopped listening on port 60359
+1698920175817	geckodriver	INFO	Listening on 127.0.0.1:60525
+1698920175825	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60526" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofile2MLBtX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698920176246	Marionette	INFO	Marionette enabled
+2023-11-02 15:46:16.372 plugin-container[77912:75092288] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:46:16.372 plugin-container[77912:75092288] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:46:16.375 plugin-container[77912:75092288] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:46:16.375 plugin-container[77912:75092288] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:46:16.375 plugin-container[77912:75092289] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:46:16.375 plugin-container[77912:75092289] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698920176491	Marionette	INFO	Listening on port 60531
+WebDriver BiDi listening on ws://127.0.0.1:60526
+1698920176536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60526/devtools/browser/9195dae7-6a09-428e-8164-9e5942b42521
+1698920192145	Marionette	INFO	Stopped listening on port 60531
+1698920353010	geckodriver	INFO	Listening on 127.0.0.1:61503
+1698920353023	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61504" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileQqZYUI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698920353858	Marionette	INFO	Marionette enabled
+2023-11-02 15:49:14.217 plugin-container[79421:75097194] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:49:14.218 plugin-container[79421:75097194] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:49:14.222 plugin-container[79421:75097194] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:49:14.222 plugin-container[79421:75097194] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:49:14.222 plugin-container[79421:75097208] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:49:14.222 plugin-container[79421:75097208] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698920354227	Marionette	INFO	Listening on port 61509
+WebDriver BiDi listening on ws://127.0.0.1:61504
+1698920354302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61504/devtools/browser/c5c03fdb-45d1-479d-b525-843e50fd5319
+1698920389753	geckodriver	INFO	Listening on 127.0.0.1:61776
+1698920389762	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61777" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofilexxFi9R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698920390279	Marionette	INFO	Marionette enabled
+1698920390572	Marionette	INFO	Listening on port 61782
+WebDriver BiDi listening on ws://127.0.0.1:61777
+2023-11-02 15:49:50.666 plugin-container[79741:75098567] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:49:50.667 plugin-container[79741:75098567] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698920390673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 15:49:50.906 plugin-container[79741:75098567] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:49:50.906 plugin-container[79741:75098567] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:49:50.906 plugin-container[79741:75098582] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:49:50.906 plugin-container[79741:75098582] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:61777/devtools/browser/76b3abe5-ee25-4059-81f0-83ff0e646acf
+1698920774130	geckodriver	INFO	Listening on 127.0.0.1:63865
+1698920774143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63866" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileBPU9wx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698920775922	Marionette	INFO	Marionette enabled
+2023-11-02 15:56:16.263 plugin-container[83017:75109788] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:56:16.263 plugin-container[83017:75109788] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698920776364	Marionette	INFO	Listening on port 63871
+WebDriver BiDi listening on ws://127.0.0.1:63866
+1698920776473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 15:56:16.544 plugin-container[83017:75109788] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:56:16.544 plugin-container[83017:75109788] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:56:16.544 plugin-container[83017:75109786] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:56:16.544 plugin-container[83017:75109786] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:63866/devtools/browser/e69cf6f1-3147-4eea-b346-d77cb3cfec0c
+1698920907946	geckodriver	INFO	Listening on 127.0.0.1:64687
+1698920908472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64688" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofiledPdOyY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698920910080	Marionette	INFO	Marionette enabled
+2023-11-02 15:58:30.406 plugin-container[84245:75114945] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:58:30.406 plugin-container[84245:75114945] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698920910490	Marionette	INFO	Listening on port 64695
+WebDriver BiDi listening on ws://127.0.0.1:64688
+1698920910565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 15:58:30.863 plugin-container[84245:75114945] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:58:30.863 plugin-container[84245:75114945] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:58:30.864 plugin-container[84245:75114948] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:58:30.864 plugin-container[84245:75114948] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:64688/devtools/browser/5d33c28d-fd29-40d3-aa28-07a3758d39a0
+1698920995567	geckodriver	INFO	Listening on 127.0.0.1:65236
+1698920995576	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65237" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileUFX5U0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698920996897	Marionette	INFO	Marionette enabled
+2023-11-02 15:59:57.147 plugin-container[84999:75118368] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:59:57.147 plugin-container[84999:75118368] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:59:57.168 plugin-container[84999:75118368] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:59:57.168 plugin-container[84999:75118368] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 15:59:57.168 plugin-container[84999:75118374] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 15:59:57.168 plugin-container[84999:75118374] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698920997259	Marionette	INFO	Listening on port 65242
+WebDriver BiDi listening on ws://127.0.0.1:65237
+1698920997350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65237/devtools/browser/1e0d48a7-eabb-4a28-b427-0974290973e5
+1698921024218	geckodriver	INFO	Listening on 127.0.0.1:65474
+1698921024743	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65475" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileI7aSMy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698921025457	Marionette	INFO	Marionette enabled
+2023-11-02 16:00:25.731 plugin-container[85267:75119707] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:00:25.731 plugin-container[85267:75119707] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:00:25.747 plugin-container[85267:75119707] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:00:25.747 plugin-container[85267:75119707] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:00:25.748 plugin-container[85267:75119713] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:00:25.748 plugin-container[85267:75119713] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698921025830	Marionette	INFO	Listening on port 65488
+WebDriver BiDi listening on ws://127.0.0.1:65475
+1698921025914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65475/devtools/browser/5c35523b-b2e0-4a0b-b169-6c9651ea0f6c
+1698921156213	geckodriver	INFO	Listening on 127.0.0.1:49889
+1698921156744	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49890" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofile7tCcAz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698921158455	Marionette	INFO	Marionette enabled
+2023-11-02 16:02:38.795 plugin-container[86394:75123532] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:02:38.796 plugin-container[86394:75123532] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698921158889	Marionette	INFO	Listening on port 49898
+WebDriver BiDi listening on ws://127.0.0.1:49890
+1698921158990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 16:02:39.309 plugin-container[86394:75123532] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:02:39.309 plugin-container[86394:75123532] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:02:39.309 plugin-container[86394:75123535] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:02:39.309 plugin-container[86394:75123535] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:49890/devtools/browser/913f43ed-ec1a-4f3f-a519-728f88329700
+1698921206780	geckodriver	INFO	Listening on 127.0.0.1:50226
+1698921206801	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50227" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofile25t2h4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698921207491	Marionette	INFO	Marionette enabled
+2023-11-02 16:03:27.795 plugin-container[86825:75125224] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:03:27.795 plugin-container[86825:75125224] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:03:27.814 plugin-container[86825:75125224] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:03:27.814 plugin-container[86825:75125224] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:03:27.814 plugin-container[86825:75125222] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:03:27.814 plugin-container[86825:75125222] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698921207902	Marionette	INFO	Listening on port 50232
+WebDriver BiDi listening on ws://127.0.0.1:50227
+1698921207962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50227/devtools/browser/63812dae-1f8f-41f8-abfe-98ff622521ca
+1698921227540	Marionette	INFO	Stopped listening on port 61509
+1698921231924	Marionette	INFO	Stopped listening on port 61782
+1698921234502	Marionette	INFO	Stopped listening on port 63871
+1698921236436	Marionette	INFO	Stopped listening on port 64695
+1698921238640	Marionette	INFO	Stopped listening on port 65242
+!!! error running onStopped callback: TypeError: callback is not a function
+1698921240517	Marionette	INFO	Stopped listening on port 65488
+1698921242534	Marionette	INFO	Stopped listening on port 49898
+1698921244274	Marionette	INFO	Stopped listening on port 50232
+1698921498445	geckodriver	INFO	Listening on 127.0.0.1:51961
+1698921498455	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51962" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofilee3t853"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698921500277	Marionette	INFO	Marionette enabled
+2023-11-02 16:08:20.613 plugin-container[89402:75134581] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:08:20.614 plugin-container[89402:75134581] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698921500717	Marionette	INFO	Listening on port 51971
+WebDriver BiDi listening on ws://127.0.0.1:51962
+1698921500825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 16:08:21.059 plugin-container[89402:75134581] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:08:21.059 plugin-container[89402:75134581] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:08:21.060 plugin-container[89402:75134618] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:08:21.060 plugin-container[89402:75134618] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:51962/devtools/browser/372318d4-10a7-45ef-96db-aa01c004ace9
+1698921511714	Marionette	INFO	Stopped listening on port 51971
+1698921538321	geckodriver	INFO	Listening on 127.0.0.1:52321
+1698921538849	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52322" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofile3AicmL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698921539775	Marionette	INFO	Marionette enabled
+2023-11-02 16:08:59.982 plugin-container[89780:75136158] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:08:59.982 plugin-container[89780:75136158] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:08:59.985 plugin-container[89780:75136158] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:08:59.985 plugin-container[89780:75136158] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:08:59.985 plugin-container[89780:75136156] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:08:59.986 plugin-container[89780:75136156] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698921540083	Marionette	INFO	Listening on port 52334
+WebDriver BiDi listening on ws://127.0.0.1:52322
+1698921540293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52322/devtools/browser/6063fde0-4ff9-426e-be5d-57696ec24d5d
+1698921551190	Marionette	INFO	Stopped listening on port 52334
+1698921651139	geckodriver	INFO	Listening on 127.0.0.1:53097
+1698921651153	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53098" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofilej3MoPI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698921652437	Marionette	INFO	Marionette enabled
+2023-11-02 16:10:52.784 plugin-container[90745:75139197] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:10:52.784 plugin-container[90745:75139197] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698921652889	Marionette	INFO	Listening on port 53103
+WebDriver BiDi listening on ws://127.0.0.1:53098
+1698921653011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 16:10:53.281 plugin-container[90745:75139197] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:10:53.281 plugin-container[90745:75139197] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:10:53.281 plugin-container[90745:75139206] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:10:53.281 plugin-container[90745:75139206] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:53098/devtools/browser/e060a52b-1244-460e-9324-915e4c3a93cd
+1698921663963	Marionette	INFO	Stopped listening on port 53103
+1698921708364	geckodriver	INFO	Listening on 127.0.0.1:53474
+1698921708888	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53475" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileT2BBk7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698921709886	Marionette	INFO	Marionette enabled
+2023-11-02 16:11:50.124 plugin-container[91253:75140942] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:11:50.125 plugin-container[91253:75140942] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:11:50.128 plugin-container[91253:75140942] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:11:50.128 plugin-container[91253:75140942] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:11:50.128 plugin-container[91253:75140940] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:11:50.128 plugin-container[91253:75140940] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698921710222	Marionette	INFO	Listening on port 53485
+WebDriver BiDi listening on ws://127.0.0.1:53475
+1698921710320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53475/devtools/browser/65b6f7f2-8661-4299-84da-592831acab43
+1698921721242	Marionette	INFO	Stopped listening on port 53485
+1698921764964	geckodriver	INFO	Listening on 127.0.0.1:53898
+1698921764972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53899" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileUAa2yR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698921765822	Marionette	INFO	Marionette enabled
+2023-11-02 16:12:46.008 plugin-container[91763:75142652] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:12:46.009 plugin-container[91763:75142652] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:12:46.018 plugin-container[91763:75142652] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:12:46.018 plugin-container[91763:75142652] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:12:46.018 plugin-container[91763:75142655] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:12:46.018 plugin-container[91763:75142655] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698921766134	Marionette	INFO	Listening on port 53904
+WebDriver BiDi listening on ws://127.0.0.1:53899
+1698921766213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53899/devtools/browser/a083e312-728c-4187-a692-cd5a21d2f1ae
+1698921798233	geckodriver	INFO	Listening on 127.0.0.1:54123
+1698921798244	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54124" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofilezhR7Wu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698921799080	Marionette	INFO	Marionette enabled
+1698921799532	Marionette	INFO	Listening on port 54129
+WebDriver BiDi listening on ws://127.0.0.1:54124
+2023-11-02 16:13:19.576 plugin-container[92074:75143873] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:13:19.577 plugin-container[92074:75143873] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698921799623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 16:13:19.854 plugin-container[92074:75143873] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:13:19.854 plugin-container[92074:75143873] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:13:19.855 plugin-container[92074:75143871] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:13:19.855 plugin-container[92074:75143871] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:54124/devtools/browser/78de1a75-8206-437c-afc9-d4cee77ea390
+1698921827459	geckodriver	INFO	Listening on 127.0.0.1:54367
+1698921827468	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54368" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofilenX1k4m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698921828132	Marionette	INFO	Marionette enabled
+2023-11-02 16:13:48.281 plugin-container[92329:75144924] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:13:48.281 plugin-container[92329:75144924] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:13:48.292 plugin-container[92329:75144924] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:13:48.292 plugin-container[92329:75144924] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:13:48.292 plugin-container[92329:75144933] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:13:48.292 plugin-container[92329:75144933] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698921828301	Marionette	INFO	Listening on port 54373
+WebDriver BiDi listening on ws://127.0.0.1:54368
+1698921828362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54368/devtools/browser/c9dec64d-7f33-4606-bd88-b5e12979dc1e
+1698921877174	geckodriver	INFO	Listening on 127.0.0.1:54740
+1698921877183	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54741" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileQGI27I"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698921877754	Marionette	INFO	Marionette enabled
+2023-11-02 16:14:37.889 plugin-container[92765:75146496] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:14:37.889 plugin-container[92765:75146496] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:14:37.904 plugin-container[92765:75146496] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:14:37.904 plugin-container[92765:75146496] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:14:37.904 plugin-container[92765:75146499] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:14:37.904 plugin-container[92765:75146499] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698921877914	Marionette	INFO	Listening on port 54746
+WebDriver BiDi listening on ws://127.0.0.1:54741
+1698921877973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54741/devtools/browser/807071f7-b1c3-42ce-bb24-813ff893096d
+1698921888510	Marionette	INFO	Stopped listening on port 54746
+1698921896974	geckodriver	INFO	Listening on 127.0.0.1:54938
+1698921896985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54939" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileJnscuC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698921897446	Marionette	INFO	Marionette enabled
+2023-11-02 16:14:57.593 plugin-container[92958:75147472] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:14:57.593 plugin-container[92958:75147472] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:14:57.600 plugin-container[92958:75147472] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:14:57.600 plugin-container[92958:75147472] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:14:57.600 plugin-container[92958:75147475] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:14:57.600 plugin-container[92958:75147475] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698921897614	Marionette	INFO	Listening on port 54944
+WebDriver BiDi listening on ws://127.0.0.1:54939
+1698921897679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54939/devtools/browser/76ad339d-7ce9-42a0-9da7-cf3610ed8fdf
+1698921908955	Marionette	INFO	Stopped listening on port 54944
+1698921937917	Marionette	INFO	Stopped listening on port 53904
+1698921939962	Marionette	INFO	Stopped listening on port 54129
+1698921944758	Marionette	INFO	Stopped listening on port 54373
+1698921989258	geckodriver	INFO	Listening on 127.0.0.1:55494
+1698921989270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55495" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileULCqM8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698921990928	Marionette	INFO	Marionette enabled
+2023-11-02 16:16:31.239 plugin-container[93798:75150586] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:16:31.239 plugin-container[93798:75150586] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698921991328	Marionette	INFO	Listening on port 55500
+WebDriver BiDi listening on ws://127.0.0.1:55495
+1698921991430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 16:16:31.722 plugin-container[93798:75150586] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:16:31.722 plugin-container[93798:75150586] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:16:31.722 plugin-container[93798:75150631] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:16:31.722 plugin-container[93798:75150631] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:55495/devtools/browser/71465526-c542-48e3-903f-12a35588f5e0
+1698921995423	Marionette	INFO	Stopped listening on port 55500
+1698922613638	geckodriver	INFO	Listening on 127.0.0.1:58972
+1698922614158	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58973" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofile9u65aK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698922616098	Marionette	INFO	Marionette enabled
+2023-11-02 16:26:56.439 plugin-container[99139:75167704] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:26:56.439 plugin-container[99139:75167704] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698922616552	Marionette	INFO	Listening on port 58982
+WebDriver BiDi listening on ws://127.0.0.1:58973
+1698922616639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 16:26:56.708 plugin-container[99139:75167704] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:26:56.708 plugin-container[99139:75167704] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 16:26:56.709 plugin-container[99139:75167731] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 16:26:56.709 plugin-container[99139:75167731] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:58973/devtools/browser/7d9d5623-6695-4159-ae5f-cba52339622f
+1698924777546	geckodriver	INFO	Listening on 127.0.0.1:61188
+1698924777561	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61189" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofiledYG94F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698924779569	Marionette	INFO	Marionette enabled
+1698924780148	Marionette	INFO	Listening on port 61197
+WebDriver BiDi listening on ws://127.0.0.1:61189
+1698924780217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 17:03:00.289 plugin-container[2837:75181496] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:03:00.323 plugin-container[2837:75181496] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 17:03:00.504 plugin-container[2837:75181496] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:03:00.504 plugin-container[2837:75181496] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 17:03:00.504 plugin-container[2837:75181499] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:03:00.504 plugin-container[2837:75181499] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:61189/devtools/browser/82443cc1-e743-4cc8-b233-46096a1319f1
+1698924784354	Marionette	INFO	Stopped listening on port 61197
+console.error: (new AbortError("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1698924934393	geckodriver	INFO	Listening on 127.0.0.1:62090
+1698924934918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62091" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofilePhSLbP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698924936518	Marionette	INFO	Marionette enabled
+2023-11-02 17:05:36.832 plugin-container[4169:75186302] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:05:36.832 plugin-container[4169:75186302] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698924936931	Marionette	INFO	Listening on port 62102
+WebDriver BiDi listening on ws://127.0.0.1:62091
+1698924937030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 17:05:37.306 plugin-container[4169:75186302] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:05:37.306 plugin-container[4169:75186302] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 17:05:37.306 plugin-container[4169:75186300] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:05:37.306 plugin-container[4169:75186300] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:62091/devtools/browser/e2937ba4-d1a3-4dde-8411-083f33e15762
+1698924996882	geckodriver	INFO	Listening on 127.0.0.1:62482
+1698924997409	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62483" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileW2ecGg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698924999453	Marionette	INFO	Marionette enabled
+2023-11-02 17:06:40.289 plugin-container[4757:75188774] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:06:40.301 plugin-container[4757:75188774] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698925000392	Marionette	INFO	Listening on port 62494
+WebDriver BiDi listening on ws://127.0.0.1:62483
+1698925000500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 17:06:40.757 plugin-container[4757:75188774] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:06:40.757 plugin-container[4757:75188774] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 17:06:40.757 plugin-container[4757:75188772] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:06:40.757 plugin-container[4757:75188772] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:62483/devtools/browser/e3a13737-d294-461d-aa38-8063abf79d48
+1698925004436	Marionette	INFO	Stopped listening on port 62494
+1698925433584	geckodriver	INFO	Listening on 127.0.0.1:65006
+1698925433595	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65007" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileNNlZJ0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698925435454	Marionette	INFO	Marionette enabled
+2023-11-02 17:13:55.810 plugin-container[8638:75200972] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:13:55.810 plugin-container[8638:75200972] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698925435912	Marionette	INFO	Listening on port 65012
+WebDriver BiDi listening on ws://127.0.0.1:65007
+1698925436018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 17:13:56.507 plugin-container[8638:75200972] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:13:56.507 plugin-container[8638:75200972] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 17:13:56.507 plugin-container[8638:75201046] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:13:56.507 plugin-container[8638:75201046] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:65007/devtools/browser/761f79be-57ad-4a31-8f75-6d99b76d8533
+1698925814548	geckodriver	INFO	Listening on 127.0.0.1:50748
+1698925815075	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50749" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileuL2JOz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698925816738	Marionette	INFO	Marionette enabled
+2023-11-02 17:20:17.079 plugin-container[11792:75211501] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:20:17.079 plugin-container[11792:75211501] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698925817221	Marionette	INFO	Listening on port 50760
+WebDriver BiDi listening on ws://127.0.0.1:50749
+1698925817317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 17:20:17.549 plugin-container[11792:75211501] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:20:17.549 plugin-container[11792:75211501] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 17:20:17.549 plugin-container[11792:75211498] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:20:17.549 plugin-container[11792:75211498] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:50749/devtools/browser/c60ddcb3-eb9e-42fb-b1f4-5f9bf48cac12
+1698925821169	Marionette	INFO	Stopped listening on port 50760
+1698926621951	geckodriver	INFO	Listening on 127.0.0.1:55170
+1698926621962	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55171" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileuz6q4U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698926623753	Marionette	INFO	Marionette enabled
+2023-11-02 17:33:44.067 plugin-container[18418:75232516] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:33:44.067 plugin-container[18418:75232516] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698926624175	Marionette	INFO	Listening on port 55176
+WebDriver BiDi listening on ws://127.0.0.1:55171
+2023-11-02 17:33:44.259 plugin-container[18418:75232516] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:33:44.259 plugin-container[18418:75232516] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 17:33:44.260 plugin-container[18418:75232522] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:33:44.260 plugin-container[18418:75232522] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698926624274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55171/devtools/browser/a235065a-47a2-481c-a340-93b504a91913
+1698926628280	Marionette	INFO	Stopped listening on port 55176
+1698927088972	geckodriver	INFO	Listening on 127.0.0.1:58377
+1698927088985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58378" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofile8qU3Jh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698927090886	Marionette	INFO	Marionette enabled
+2023-11-02 17:41:31.212 plugin-container[23391:75247885] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:41:31.212 plugin-container[23391:75247885] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698927091315	Marionette	INFO	Listening on port 58383
+WebDriver BiDi listening on ws://127.0.0.1:58378
+1698927091425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 17:41:31.704 plugin-container[23391:75247885] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:41:31.705 plugin-container[23391:75247885] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 17:41:31.705 plugin-container[23391:75247894] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:41:31.705 plugin-container[23391:75247894] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:58378/devtools/browser/f748133d-ed42-4b2a-9757-f16a8c889294
+1698927095686	Marionette	INFO	Stopped listening on port 58383
+1698927320948	geckodriver	INFO	Listening on 127.0.0.1:59962
+1698927320959	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59963" "-foreground" "-no-remote" "-profile" "/var/folders/kx/q14v35rj46z_dr6cllv10hx80000gn/T/rust_mozprofileIyHqFg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698927322709	Marionette	INFO	Marionette enabled
+2023-11-02 17:45:23.058 plugin-container[25500:75254249] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:45:23.058 plugin-container[25500:75254249] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1698927323160	Marionette	INFO	Listening on port 59969
+WebDriver BiDi listening on ws://127.0.0.1:59963
+1698927323267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-11-02 17:45:23.359 plugin-container[25500:75254249] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:45:23.359 plugin-container[25500:75254249] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-11-02 17:45:23.360 plugin-container[25500:75254254] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-11-02 17:45:23.360 plugin-container[25500:75254254] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:59963/devtools/browser/a376fa7c-5ae2-4ee7-8def-035557032999
+1698927327758	Marionette	INFO	Stopped listening on port 59969
